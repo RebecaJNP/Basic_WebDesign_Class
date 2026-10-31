@@ -1,0 +1,45 @@
+body{
+    background-color:darkseagreen;
+}
+h1{
+    color:ivory;
+    text-align:center;
+}
+h2{
+    color:ivory;
+    text-align:center;
+}
+h3{
+    color:ivory;
+}
+p{
+    color:ivory;
+}
+li{
+    color:ivory;
+}
+nav{
+    border-top:4px solid green;
+    border-bottom:4px solid green;
+    padding: 20px 0; 
+}
+nav a{
+    color:ivory;
+    text-decoration:none;
+    padding: 0 20px; 
+}
+hr{
+    border: 1px solid green;
+}
+img{ 
+    display: block;
+    margin: 10px auto;
+    width : 50%;
+    height : auto;
+}
+footer{
+    color:ivory;
+    text-align:center;
+    padding: 20px 0; 
+    border-top:4px solid green;
+}
