@@ -175,17 +175,16 @@ p{
 
 .img_index { 
     border: 2px;
-    border-radius: 10;  
+    border-radius: 10px;  
     border-color: saddlebrown;
 }
 
 .phone_addiction_img {
     border: 2px;
-    border-radius: 10; 
+    border-radius: 10px; 
     border-color: saddlebrown;
 }
 
 hr {
-    border: 1 px solid linen;
-    margin: 20px 0;
+    color: linen;
 }
